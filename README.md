@@ -17,9 +17,15 @@ This project was completed as part of the first-year design course at the Univer
 - Defined structural functions and constraints
 - Supported cost estimation and compliance with Ontario Building Code
 
+## 🛠 Tools & Skills
+
+- Design & Analysis: solar energy capture
+- Compliance: Ontario Building Code, urban wind/snow constraints
+- Communication: Client interview, stakeholder analysis
+
 ## 📎 Files
 
-- [Rooftop Greenhouse Portfolio Page (PDF)](./docs/Rooftop_Greenhouse_Portfolio_Page.pdf)
+- [Rooftop Greenhouse Portfolio Page_UPDATED (PDF)](./docs/Rooftop_Greenhouse_Portfolio_Page_UPDATED.pdf)
 
 ## 🏫 Institution
 
