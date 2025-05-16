@@ -20,7 +20,6 @@ This project was completed as part of the first-year design course at the Univer
 ## 📎 Files
 
 - [Rooftop Greenhouse Portfolio Page (PDF)](./docs/Rooftop_Greenhouse_Portfolio_Page.pdf)
-- [Final Design Rendering](./docs/rendering.png)
 
 ## 🏫 Institution
 
